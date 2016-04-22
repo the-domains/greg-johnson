@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Get in Touch
-datePublished: '2016-04-22T21:09:38.273Z'
-dateModified: '2016-04-22T21:09:21.038Z'
+datePublished: '2016-04-22T21:09:57.988Z'
+dateModified: '2016-04-22T21:09:47.104Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-22-get-in-touch.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-22-get-in-touch.md
-published: true
 url: get-in-touch/index.html
 _type: Article
 
