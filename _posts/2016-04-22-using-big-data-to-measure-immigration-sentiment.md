@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Using big data to measure immigration sentiment
-datePublished: '2016-04-22T18:39:06.807Z'
-dateModified: '2016-04-22T18:38:57.647Z'
+datePublished: '2016-04-22T18:40:03.895Z'
+dateModified: '2016-04-22T18:39:38.386Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-22-using-big-data-to-measure-immigration-sentiment.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: false
-sourcePath: _posts/2016-04-22-using-big-data-to-measure-immigration-sentiment.md
-published: true
+starred: true
 url: using-big-data-to-measure-immigration-sentiment/index.html
 _type: Article
 
