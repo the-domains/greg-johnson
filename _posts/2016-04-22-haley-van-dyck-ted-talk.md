@@ -1,27 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=Y011SStgY8I'
+inLanguage: null
+keywords: []
+description: Filmed February 2016 at TED2016
+datePublished: '2016-04-22T21:20:29.120Z'
+dateModified: '2016-04-22T21:20:13.905Z'
 author:
   - name: MeriTalk
     url: 'https://www.youtube.com/user/MeriTalk'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: Filmed February 2016 at TED2016
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=Y011SStgY8I'
 title: Haley Van Dyck TED Talk
-datePublished: '2016-04-22T21:20:05.611Z'
-dateModified: '2016-04-22T21:19:22.844Z'
-starred: false
 sourcePath: _posts/2016-04-22-haley-van-dyck-ted-talk.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
