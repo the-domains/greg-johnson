@@ -1,7 +1,7 @@
 name: Greg Johnson
 favicon: null
 layout_spectrum: 0.3976430054754019
-typography_spectrum: 0.78243
+typography_spectrum: 0.49341
 title: Greg Johnson
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#fe7e96'
     - '#feb24e'
   brandStrength: 0.3125
-  lightness: 0.47576982667669654
+  lightness: 0.6875
   saturation: 0.25
   rhythmicContrast: 0.8006067757960409
 purpose: []
