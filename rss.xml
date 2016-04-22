@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Greg Johnson]]></title>
         <description><![CDATA[Greg Johnson]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/greg-johnson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 16:50:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Apr 2016 16:57:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/greg-johnson/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a166fdc-6a5d-4c24-be06-9a95cf2a089f.jpg">]]></description>
-            <link>undefineda15b528d-3688-4454-8ead-417b7b0cb728/index.html</link>
+            <link>https://thegrid.ai/greg-johnson/a15b528d-3688-4454-8ead-417b7b0cb728/index.html</link>
             <guid isPermaLink="false">a15b528d-3688-4454-8ead-417b7b0cb728</guid>
-            <pubDate>Fri, 22 Apr 2016 16:50:29 GMT</pubDate>
+            <pubDate>Fri, 22 Apr 2016 16:57:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
