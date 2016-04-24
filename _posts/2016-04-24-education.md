@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: 'University of Oxford: MSc Social Science of the Internet'
-datePublished: '2016-04-24T23:43:18.360Z'
-dateModified: '2016-04-24T23:43:17.963Z'
+datePublished: '2016-04-24T23:43:52.918Z'
+dateModified: '2016-04-24T23:43:52.598Z'
 title: Education
 author: []
 authors: []
