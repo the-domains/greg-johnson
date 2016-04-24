@@ -5,10 +5,12 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'University of Oxford: MSc Social Science of the Internet'
-datePublished: '2016-04-24T23:24:16.413Z'
-dateModified: '2016-04-24T23:23:52.567Z'
+datePublished: '2016-04-24T23:25:19.774Z'
+dateModified: '2016-04-24T23:24:25.337Z'
 title: Education
 author: []
+sourcePath: _posts/2016-04-24-education.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-24-education.md
-published: true
 url: education/index.html
 _type: WebPage
 
