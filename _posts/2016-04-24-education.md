@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'University of Oxford: MSc Social Science of the Internet'
-datePublished: '2016-04-24T23:51:12.011Z'
-dateModified: '2016-04-24T23:49:44.948Z'
+datePublished: '2016-04-24T23:53:18.710Z'
+dateModified: '2016-04-24T23:53:05.451Z'
 title: Education
 author: []
 sourcePath: _posts/2016-04-24-education.md
@@ -29,4 +29,4 @@ _type: Article
 
 > Degree designed for students wishing to gain the skills and knowledge needed for professional careers in leading technology companies, consulting firms, and the wide variety of businesses that increasingly need employees who understand technology and how people use it. 
 
-**Eckerd College:** BA Political Science, American Studies (e-government)
+**Eckerd College:** BA Political Science, American Studies (High Honors)
