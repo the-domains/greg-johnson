@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'University of Oxford: MSc Social Science of the Internet'
-datePublished: '2016-04-24T23:53:55.074Z'
-dateModified: '2016-04-24T23:53:49.334Z'
+datePublished: '2016-04-24T23:57:53.812Z'
+dateModified: '2016-04-24T23:56:28.616Z'
 title: Education
 author: []
 sourcePath: _posts/2016-04-24-education.md
@@ -24,10 +24,14 @@ _type: Article
 ---
 # Education
 
+## Graduate School
+
 **University of Oxford:** MSc Social Science of the Internet
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/beafe868-9699-4879-9b74-a8713790120f.jpg)
 
 > Degree designed for students wishing to gain the skills and knowledge needed for professional careers in leading technology companies, consulting firms, and the wide variety of businesses that increasingly need employees who understand technology and how people use it. 
+
+## Undergraduate
 
 **Eckerd College:** BA Political Science, American Studies (High Honors)
 
