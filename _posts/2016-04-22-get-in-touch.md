@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Feel free to email me at gregory.johnson@oii.ox.ac.uk or connect with me on LinkedIn, Facebook, and Twitter.'
-datePublished: '2016-04-24T23:49:18.255Z'
-dateModified: '2016-04-24T23:49:06.355Z'
+description: ''
+datePublished: '2016-04-25T00:02:50.096Z'
+dateModified: '2016-04-25T00:02:41.631Z'
 title: Get in Touch
 author: []
 sourcePath: _posts/2016-04-22-get-in-touch.md
@@ -25,4 +25,8 @@ _type: Article
 # Get in Touch
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c05ba40-e515-4ce0-97f0-8cd5eaf6abac.jpg)
 
-Feel free to email me at gregory.johnson@oii.ox.ac.uk or connect with me on LinkedIn, Facebook, and Twitter.
+* Email: gregory.johnson@oii.ox.ac.uk 
+* LinkedIn: https://www.linkedin.com/in/greginternet
+* Facebook: https://www.facebook.com/greg.johnson1
+* Twitter: https://twitter.com/greg\_oii
+* Instagram: gram.com/just.greg.things/
