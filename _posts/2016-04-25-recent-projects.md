@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Loren ipsum dolor...
-datePublished: '2016-04-25T10:02:13.013Z'
-dateModified: '2016-04-25T00:20:12.872Z'
+datePublished: '2016-04-25T10:02:21.504Z'
+dateModified: '2016-04-25T10:02:17.050Z'
 title: Recent Projects
 author: []
 sourcePath: _posts/2016-04-25-recent-projects.md
