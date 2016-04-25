@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Loren ipsum dolor...
-datePublished: '2016-04-25T10:02:21.504Z'
-dateModified: '2016-04-25T10:02:17.050Z'
+datePublished: '2016-04-25T10:02:37.208Z'
+dateModified: '2016-04-25T10:02:32.068Z'
 title: Recent Projects
 author: []
 sourcePath: _posts/2016-04-25-recent-projects.md
@@ -25,6 +25,8 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/986cf2e1-511f-4669-abf1-18c490cf038e.png)
 
 # Recent Projects
+
+I build prototypes, use python and R for big data analysis, and create interactive data visualizations...
 
 ## Prototype: Online news platform
 
