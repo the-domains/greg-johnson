@@ -4,7 +4,7 @@
         <description><![CDATA[Greg Johnson]]></description>
         <link>https://thegrid.ai/greg-johnson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 10:03:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 14:09:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/greg-johnson/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hi, I'm Greg.]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/greg-johnson/hi-im-greg-i-study-the-internet-at-oxford-university-ant/index.html</link>
             <guid isPermaLink="false">e1bbf9d3-2fb6-4476-87a4-60a1f75ee81b</guid>
             <pubDate>Sat, 23 Apr 2016 22:49:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Education]]></title>
+            <description><![CDATA[<article><h1>Education</h1><p>University of Oxford: MSc Social Science of the Internet</p></article>]]></description>
+            <link>https://thegrid.ai/greg-johnson/education/index.html</link>
+            <guid isPermaLink="false">28dea9b4-0cee-4e2f-a811-98508bcddfc3</guid>
+            <pubDate>Mon, 25 Apr 2016 14:09:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Recent Projects]]></title>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/greg-johnson/get-in-touch/index.html</link>
             <guid isPermaLink="false">355c83b6-d6a2-4ed1-b0b8-5d69d678b250</guid>
             <pubDate>Mon, 25 Apr 2016 00:03:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Education]]></title>
-            <description><![CDATA[<article><h1>Education</h1><p>University of Oxford: MSc Social Science of the Internet</p></article>]]></description>
-            <link>https://thegrid.ai/greg-johnson/education/index.html</link>
-            <guid isPermaLink="false">28dea9b4-0cee-4e2f-a811-98508bcddfc3</guid>
-            <pubDate>Sun, 24 Apr 2016 23:57:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
