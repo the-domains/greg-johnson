@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-15T17:02:22.860Z'
-dateModified: '2016-05-15T17:02:18.154Z'
+datePublished: '2016-05-15T17:09:24.673Z'
+dateModified: '2016-05-15T17:08:41.783Z'
 title: Get in Touch
 author: []
 sourcePath: _posts/2016-04-22-get-in-touch.md
@@ -28,4 +28,3 @@ _type: Article
 * Facebook: https://www.facebook.com/greg.johnson1
 * Twitter: https://twitter.com/greg\_oii
 * Instagram: https://www.instagram.com/just.greg.things/
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa50c3f9-5f3c-4131-b2ce-2d271d6c5d69.jpg)
