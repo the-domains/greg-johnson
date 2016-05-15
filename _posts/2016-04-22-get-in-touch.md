@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-15T16:57:07.311Z'
-dateModified: '2016-04-25T00:04:40.756Z'
+datePublished: '2016-05-15T16:58:58.269Z'
+dateModified: '2016-05-15T16:58:44.546Z'
 title: Get in Touch
 author: []
 sourcePath: _posts/2016-04-22-get-in-touch.md
@@ -21,8 +21,9 @@ url: get-in-touch/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/44bd95b1-3eda-4152-a876-b86d32d82a18.jpg)
+
 # Get in Touch
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c05ba40-e515-4ce0-97f0-8cd5eaf6abac.jpg)
 
 * Email: gregory.johnson@oii.ox.ac.uk 
 * LinkedIn: https://www.linkedin.com/in/greginternet
