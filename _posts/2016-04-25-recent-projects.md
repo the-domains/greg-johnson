@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Loren ipsum dolor...
-datePublished: '2016-05-15T16:53:42.632Z'
-dateModified: '2016-05-15T16:53:31.372Z'
+datePublished: '2016-05-15T17:06:11.511Z'
+dateModified: '2016-05-15T16:54:22.898Z'
 title: Recent Projects
 author: []
 sourcePath: _posts/2016-04-25-recent-projects.md
@@ -21,7 +21,7 @@ url: recent-projects/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/986cf2e1-511f-4669-abf1-18c490cf038e.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/dbf4d1c2231dea3bc463f262bf9f11b5ab9c6b92.png)
 
 # Recent Projects
 
