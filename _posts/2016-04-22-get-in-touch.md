@@ -5,12 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-25T00:03:21.821Z'
-dateModified: '2016-04-25T00:02:56.793Z'
+datePublished: '2016-05-15T16:57:07.311Z'
+dateModified: '2016-04-25T00:04:40.756Z'
 title: Get in Touch
 author: []
 sourcePath: _posts/2016-04-22-get-in-touch.md
-published: true
 authors: []
 publisher:
   name: null
@@ -29,4 +28,4 @@ _type: Article
 * LinkedIn: https://www.linkedin.com/in/greginternet
 * Facebook: https://www.facebook.com/greg.johnson1
 * Twitter: https://twitter.com/greg\_oii
-* Instagram: gram.com/just.greg.things/
+* Instagram: https://www.instagram.com/just.greg.things/
