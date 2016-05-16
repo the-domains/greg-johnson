@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "I study the Internet at Oxford University. My research focus is on strategies to convert lurkers on social media and community-oriented platforms into active participants. I'm passionate about using technology to solve real-world problems - I achieve this with my experience in entrepreneurial settings, managing large budgets, team leadership, and big data analysis."
-datePublished: '2016-05-16T20:19:05.672Z'
-dateModified: '2016-05-16T20:18:58.807Z'
+datePublished: '2016-05-16T20:26:32.267Z'
+dateModified: '2016-05-16T20:19:15.238Z'
 title: "Hi, I'm Greg."
 author:
   - name: ''
