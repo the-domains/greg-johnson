@@ -4,7 +4,7 @@
         <description><![CDATA[Greg Johnson]]></description>
         <link>https://thegrid.ai/greg-johnson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 May 2016 20:42:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 May 2016 20:45:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/greg-johnson/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hi, I'm Greg.]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/greg-johnson/hi-im-greg-i-study-the-internet-at-oxford-university-ant/index.html</link>
             <guid isPermaLink="false">e1bbf9d3-2fb6-4476-87a4-60a1f75ee81b</guid>
             <pubDate>Mon, 16 May 2016 20:38:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Learn more about my experience on LinkedIn]]></title>
+            <description><![CDATA[<article><h1>Learn more about my experience on LinkedIn</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d492f563-934f-4724-b30f-020fcfbb98a6.jpg"></article>]]></description>
+            <link>https://thegrid.ai/greg-johnson/learn-more-about-my-experience-on-linkedin/index.html</link>
+            <guid isPermaLink="false">d280ba5c-8d50-4816-8d62-9fd931a1f6a5</guid>
+            <pubDate>Mon, 16 May 2016 20:45:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Recent Projects]]></title>
