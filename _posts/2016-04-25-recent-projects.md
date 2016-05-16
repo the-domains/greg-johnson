@@ -4,11 +4,13 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Loren ipsum dolor...
-datePublished: '2016-05-15T17:06:11.511Z'
-dateModified: '2016-05-15T16:54:22.898Z'
-title: Recent Projects
-author: []
+description: 'Using Python and R, I accessed and analyzed JSON data from petitions on Westminster’s online platform. I then used QGIS to map one million signers by constituency. My visualizations were presented by Dr. Margetts for her May 2016 Political Turbulence talks at Harvard and MIT.'
+datePublished: '2016-05-16T21:02:47.230Z'
+dateModified: '2016-05-16T21:02:20.609Z'
+title: Using Big Data to Map Immigration Sentiment
+author:
+  - name: Greg Johnson
+    url: ''
 sourcePath: _posts/2016-04-25-recent-projects.md
 authors: []
 publisher:
@@ -23,18 +25,8 @@ _type: Article
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/dbf4d1c2231dea3bc463f262bf9f11b5ab9c6b92.png)
 
-# Recent Projects
+# Using Big Data to Map Immigration Sentiment
 
-I build prototypes, use python and R for big data analysis, and create interactive data visualizations...
+Using Python and R, I accessed and analyzed JSON data from petitions on Westminster's online platform. I then used QGIS to map one million signers by constituency. My visualizations were presented by Dr. Margetts for her May 2016 _Political Turbulence_ talks at Harvard and MIT.
 
-## Prototype: Online news platform
-
-Loren ipsum dolor...
-
-## Mapping Immigration in the UK
-
-Loren ipsum dolor...
-
-## Using big data to predict US election results
-
-Loren ipsum dolor...
+****
