@@ -4,7 +4,7 @@
         <description><![CDATA[Greg Johnson]]></description>
         <link>https://thegrid.ai/greg-johnson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 May 2016 20:48:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 May 2016 21:02:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/greg-johnson/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hi, I'm Greg.]]></title>
@@ -14,18 +14,18 @@
             <pubDate>Mon, 16 May 2016 20:48:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Using Big Data to Map Immigration Sentiment]]></title>
+            <description><![CDATA[<article><h1>Using Big Data to Map Immigration Sentiment</h1><p>Using Python and R, I accessed and analyzed JSON data from petitions on Westminster’s online platform. I then used QGIS to map one million signers by constituency. My visualizations were presented by Dr. Margetts for her May 2016 Political Turbulence talks at Harvard and MIT.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dbf4d1c2231dea3bc463f262bf9f11b5ab9c6b92.png"></article>]]></description>
+            <link>https://thegrid.ai/greg-johnson/recent-projects/index.html</link>
+            <guid isPermaLink="false">3482efc5-61e3-4750-a15d-c1c343325cba</guid>
+            <pubDate>Mon, 16 May 2016 21:02:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Learn more about my experience on LinkedIn]]></title>
             <description><![CDATA[<article><h1>Learn more about my experience on LinkedIn</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d492f563-934f-4724-b30f-020fcfbb98a6.jpg"></article>]]></description>
             <link>https://thegrid.ai/greg-johnson/learn-more-about-my-experience-on-linkedin/index.html</link>
             <guid isPermaLink="false">d280ba5c-8d50-4816-8d62-9fd931a1f6a5</guid>
             <pubDate>Mon, 16 May 2016 20:47:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Recent Projects]]></title>
-            <description><![CDATA[<article><h1>Recent Projects</h1><h2>Prototype: Online news platform</h2><p>Loren ipsum dolor...</p></article>]]></description>
-            <link>https://thegrid.ai/greg-johnson/recent-projects/index.html</link>
-            <guid isPermaLink="false">3482efc5-61e3-4750-a15d-c1c343325cba</guid>
-            <pubDate>Sun, 15 May 2016 17:06:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
