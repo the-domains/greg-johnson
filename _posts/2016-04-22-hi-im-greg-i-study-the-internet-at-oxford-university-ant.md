@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-05-16T21:03:40.624Z'
-dateModified: '2016-05-16T21:03:20.079Z'
+description: "I study the Internet at Oxford University. I explore strategies to convert lurkers into active participants. I'm passionate about using technology to solve real-world problems - I achieve this with my experience in entrepreneurial settings, politics, business, and big data."
+datePublished: '2016-05-17T12:25:13.940Z'
+dateModified: '2016-05-17T12:22:46.352Z'
 title: "Hi, I'm Greg."
 author:
   - name: ''
@@ -23,7 +23,8 @@ url: hi-im-greg-i-study-the-internet-at-oxford-university-ant/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2618342e-d67f-450d-8cda-3430ba7baf02.jpg)
+
 # Hi, I'm Greg.
 
 I study the Internet at Oxford University. I explore strategies to convert lurkers into active participants. I'm passionate about using technology to solve real-world problems - I achieve this with my experience in entrepreneurial settings, politics, business, and big data.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/17eeab7a-fc61-47b0-8302-7b7766893814.jpg)
