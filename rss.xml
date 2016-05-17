@@ -4,7 +4,7 @@
         <description><![CDATA[Greg Johnson]]></description>
         <link>https://thegrid.ai/greg-johnson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 13:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 May 2016 13:15:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/greg-johnson/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hi, I'm Greg.]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/greg-johnson/increasing-interactions-on-civic-engagement-platforms-by-183/index.html</link>
             <guid isPermaLink="false">7a38a2fc-68bc-4139-a5a8-3292f8d32984</guid>
             <pubDate>Tue, 17 May 2016 13:13:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Using Big Data to Map Immigration Sentiment]]></title>
-            <description><![CDATA[<article><h1>Using Big Data to Map Immigration Sentiment</h1><p>Using Python and R, I accessed and analyzed JSON data from petitions on Westminster’s online platform. I then used QGIS to map one million signers by constituency. My visualizations were presented by Dr. Margetts for her May 2016 Political Turbulence talks at Harvard and MIT.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dbf4d1c2231dea3bc463f262bf9f11b5ab9c6b92.png"></article>]]></description>
-            <link>https://thegrid.ai/greg-johnson/recent-projects/index.html</link>
-            <guid isPermaLink="false">3482efc5-61e3-4750-a15d-c1c343325cba</guid>
-            <pubDate>Mon, 16 May 2016 21:03:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Learn more about my experience on LinkedIn]]></title>
