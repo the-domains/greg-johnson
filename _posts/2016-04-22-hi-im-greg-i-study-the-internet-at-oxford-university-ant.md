@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: "I study the Internet at Oxford University. I explore strategies to convert lurkers into active participants. I'm passionate about using technology to solve real-world problems - I achieve this with my experience in entrepreneurial settings, politics, business, and big data."
-datePublished: '2016-05-17T12:41:05.038Z'
-dateModified: '2016-05-17T12:36:50.794Z'
+description: 'I study the Internet at Oxford University. My primary interests relate to online social interaction and civic participation. I have experience in start-ups, big data, digital government, and developing prototypes. '
+datePublished: '2016-05-17T13:21:54.060Z'
+dateModified: '2016-05-17T13:18:16.541Z'
 title: "Hi, I'm Greg."
 author:
   - name: ''
@@ -27,4 +27,4 @@ _type: Article
 
 # Hi, I'm Greg.
 
-I study the Internet at Oxford University. I explore strategies to convert lurkers into active participants. I'm passionate about using technology to solve real-world problems - I achieve this with my experience in entrepreneurial settings, politics, business, and big data.
+I study the Internet at Oxford University. My primary interests relate to online social interaction and civic participation. I have experience in start-ups, big data, digital government, and developing prototypes.
