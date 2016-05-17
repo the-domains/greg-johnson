@@ -4,10 +4,10 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-05-17T13:36:28.226Z'
-dateModified: '2016-05-17T13:30:19.876Z'
-title: 'I study the Internet at Oxford University. My primary interests relate to online social interaction and civic participation. I have experience in startups, big data, digital government, and developing prototypes. '
+description: 'I study the Internet at Oxford University. My primary interests relate to online social interaction and civic participation. I have experience in startups, big data, digital government, and developing prototypes. '
+datePublished: '2016-05-17T13:40:22.616Z'
+dateModified: '2016-05-17T13:40:20.413Z'
+title: ''
 author:
   - name: ''
     url: ''
@@ -25,4 +25,4 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2618342e-d67f-450d-8cda-3430ba7baf02.jpg)
 
-## I study the Internet at Oxford University. My primary interests relate to online social interaction and civic participation. I have experience in startups, big data, digital government, and developing prototypes.
+I study the Internet at Oxford University. My primary interests relate to online social interaction and civic participation. I have experience in startups, big data, digital government, and developing prototypes.
