@@ -5,17 +5,17 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-18T01:07:10.158Z'
-dateModified: '2016-05-18T01:07:04.722Z'
+datePublished: '2016-05-18T01:07:21.449Z'
+dateModified: '2016-05-18T01:07:11.452Z'
 title: 'I study the Internet at Oxford University. My primary interests relate to online social interaction and civic participation. I have experience in startups, big data, digital government, and developing prototypes.'
 author: []
+sourcePath: _posts/2016-05-18-i-study-the-internet-at-oxford-university-my-primary-intere.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-05-18-i-study-the-internet-at-oxford-university-my-primary-intere.md
 starred: true
 url: i-study-the-internet-at-oxford-university-my-primary-intere/index.html
 _type: Article
