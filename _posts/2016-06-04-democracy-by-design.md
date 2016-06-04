@@ -10,8 +10,8 @@ description: >-
   management systems, and custom CSS/ javascript, I am conducting an online
   experiment and nationally representative survey to understand these
   opportunities to more meaningfully connect people.
-datePublished: '2016-06-04T13:56:12.998Z'
-dateModified: '2016-06-04T13:56:05.425Z'
+datePublished: '2016-06-04T13:59:44.597Z'
+dateModified: '2016-06-04T13:59:30.395Z'
 author: []
 title: Democracy by Design
 sourcePath: _posts/2016-06-04-democracy-by-design.md
@@ -22,7 +22,7 @@ url: democracy-by-design/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6fd4b79-64b6-4258-8d44-ec4a910715da.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d05826e-66e4-4f0e-a79c-ce1d0baef824.jpg)
 
 # Democracy by Design
 
