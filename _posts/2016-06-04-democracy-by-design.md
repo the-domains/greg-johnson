@@ -11,14 +11,14 @@ description: >-
   content management systems, and custom CSS/ javascript, I am conducting an
   online experiment and nationally representative survey to understand these
   opportunities to more meaningfully connect people with organizations.
-datePublished: '2016-06-04T13:36:45.785Z'
-dateModified: '2016-06-04T13:36:24.914Z'
+datePublished: '2016-06-04T13:37:24.202Z'
+dateModified: '2016-06-04T13:36:54.383Z'
 author: []
 title: Democracy by Design
+sourcePath: _posts/2016-06-04-democracy-by-design.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-04-democracy-by-design.md
 url: democracy-by-design/index.html
 _type: Article
 
