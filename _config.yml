@@ -1,21 +1,4 @@
-name: Greg Johnson
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c125dac9-f053-4ff8-8493-6e2c1087aa58.ico
-layout_spectrum: 0.7087991300504655
 typography_spectrum: 0.39231268921867013
-title: null
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-78770793-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#FCFFF5'
@@ -27,4 +10,25 @@ color:
   lightness: 0.2779305442236364
   saturation: 0.12340205581858754
   rhythmicContrast: 0.9392926173750311
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.7087991300504655
+analytics:
+  google: UA-78770793-1
+  facebook: null
+  twitter: null
+name: Greg Johnson
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: LinkedIn
+    url: 'https://www.linkedin.com/in/greginternet'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c125dac9-f053-4ff8-8493-6e2c1087aa58.ico
+title: null
 purpose: []
