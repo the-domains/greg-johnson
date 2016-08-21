@@ -1,4 +1,3 @@
-layout_spectrum: 0.7087991300504655
 typography_spectrum: 0.5853061021771282
 color:
   brandColors:
@@ -15,10 +14,15 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.7087991300504655
 analytics:
   google: UA-78770793-1
   facebook: null
   twitter: null
+author:
+  name: Greg Johnson
+  email: ''
+  url: greg.buzz
 name: Greg Johnson
 cta:
   domain: null
@@ -30,5 +34,5 @@ navigation:
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c125dac9-f053-4ff8-8493-6e2c1087aa58.ico
-title: null
+title: University of Oxford
 purpose: []
