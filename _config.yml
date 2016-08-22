@@ -32,6 +32,9 @@ navigation:
   - name: LinkedIn
     url: 'https://www.linkedin.com/in/greginternet'
     type: external
+  - name: Facebook
+    url: 'https://www.facebook.com/greg.johnson1'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c125dac9-f053-4ff8-8493-6e2c1087aa58.ico
 title: ''
