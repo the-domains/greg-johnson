@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-23T16:26:35.979Z'
+datePublished: '2016-08-23T18:23:05.783Z'
 sourcePath: _posts/2016-08-23-i-study-the-internet-at-oxford.md
 author: []
 via: {}
-dateModified: '2016-08-23T16:26:35.417Z'
+dateModified: '2016-08-23T18:23:05.149Z'
 title: >-
   I study the Internet at Oxford. I have experience leading digital initiatives
   with startups, governments, and in big data research.
