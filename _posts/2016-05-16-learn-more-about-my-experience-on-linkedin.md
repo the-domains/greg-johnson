@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-08-23T11:54:57.560Z'
+datePublished: '2016-08-23T12:03:40.530Z'
+sourcePath: _posts/2016-05-16-learn-more-about-my-experience-on-linkedin.md
 isBasedOnUrl: 'https://www.linkedin.com/in/greginternet'
 author: []
 via: {}
@@ -18,7 +19,7 @@ metadata:
   description: ''
   inLanguage: null
   inNav: false
-dateModified: '2016-08-23T11:54:56.696Z'
+dateModified: '2016-08-23T12:03:39.853Z'
 title: Greg Johnson | LinkedIn
 id: d280ba5c-8d50-4816-8d62-9fd931a1f6a5
 publisher:
@@ -29,13 +30,10 @@ description: >-
   faculty sponsor, a major project during the senior year, and supervised
   teaching experience.
 starred: false
-sourcePath: _posts/2016-05-16-learn-more-about-my-experience-on-linkedin.md
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/36009936fe745f1f6a1d5a53a8344ad8/noop.jpg?input=https%3A%2F%2Fmedia.licdn.com%2Fmpr%2Fmpr%2Fshrinknp_200_200%2FAAEAAQAAAAAAAAivAAAAJDAwZTVlN2MwLTBmODEtNDExNi04ZjYyLTQzNTRkNjZhNmQ1Ng.jpg" /><h1>Greg Johnson | LinkedIn</h1><p>Selected on the basis of academic achievement and intellectual promise. The program involves special coursework, summer research in collaboration with a faculty sponsor, a major project during the senior year, and supervised teaching experience.</p></article>
-
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d492f563-934f-4724-b30f-020fcfbb98a6.jpg)
+![View my profile on LinkedIn](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b50d0e9c-9aef-42d7-9d78-a3eb2c23986a.jpg)
