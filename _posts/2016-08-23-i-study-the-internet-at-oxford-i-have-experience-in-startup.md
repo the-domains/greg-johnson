@@ -1,13 +1,15 @@
 ---
-datePublished: '2016-08-23T12:54:06.399Z'
+datePublished: '2016-08-23T12:56:06.555Z'
 sourcePath: >-
   _posts/2016-08-23-i-study-the-internet-at-oxford-i-have-experience-in-startup.md
 author: []
 via: {}
-dateModified: '2016-08-23T12:54:05.874Z'
-title: I study the Internet at Oxford.
+dateModified: '2016-08-23T12:56:06.022Z'
+title: ''
 publisher: {}
-description: ''
+description: >-
+  I study the Internet at Oxford. I have experience in startups, big data,
+  digital government, and developing prototypes.
 starred: true
 inFeed: true
 hasPage: false
@@ -17,4 +19,4 @@ _type: MediaObject
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a687903-b033-43b4-8976-07dfd609b030.jpg)
 
-# I study the Internet at Oxford.
+I study the Internet at Oxford. I have experience in startups, big data, digital government, and developing prototypes.
