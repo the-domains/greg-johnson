@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-23T12:35:49.922Z'
+datePublished: '2016-08-23T12:38:15.214Z'
 sourcePath: >-
   _posts/2016-05-18-i-study-the-internet-at-oxford-university-my-primary-intere.md
 inFeed: true
@@ -8,12 +8,12 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-23T12:35:49.331Z'
-title: ''
-publisher: {}
-description: >-
+dateModified: '2016-08-23T12:38:14.576Z'
+title: >-
   I study the Internet at Oxford. I have experience in startups, big data,
   digital government, and developing prototypes.
+publisher: {}
+description: ''
 inLanguage: null
 inNav: false
 starred: true
@@ -21,5 +21,5 @@ url: i-study-the-internet-at-oxford-university-my-primary-intere/index.html
 _type: Article
 
 ---
-I study the Internet at Oxford. I have experience in startups, big data, digital government, and developing prototypes.
+# I study the Internet at Oxford. I have experience in startups, big data, digital government, and developing prototypes.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/55145b8c-272c-436a-b171-ef0b35c78816.jpg)
