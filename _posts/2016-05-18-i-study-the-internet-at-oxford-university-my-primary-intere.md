@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-23T12:38:15.214Z'
+datePublished: '2016-08-23T12:42:57.798Z'
 sourcePath: >-
   _posts/2016-05-18-i-study-the-internet-at-oxford-university-my-primary-intere.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-23T12:38:14.576Z'
+dateModified: '2016-08-23T12:42:57.116Z'
 title: >-
   I study the Internet at Oxford. I have experience in startups, big data,
   digital government, and developing prototypes.
