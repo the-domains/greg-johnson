@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-23T13:02:08.510Z'
+datePublished: '2016-08-23T13:02:36.205Z'
 sourcePath: _posts/2016-04-25-recent-projects.md
 inFeed: true
 isBasedOnUrl: ''
@@ -10,7 +10,7 @@ author:
   - name: Greg Johnson
     url: ''
 via: {}
-dateModified: '2016-08-23T13:02:07.915Z'
+dateModified: '2016-08-23T13:02:35.582Z'
 title: Using Big Data to Map Immigration Sentiment
 publisher: {}
 description: >-
