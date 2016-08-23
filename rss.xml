@@ -4,7 +4,7 @@
         <description><![CDATA[Greg Johnson]]></description>
         <link>http://greg.buzz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 12:03:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 12:13:09 GMT</lastBuildDate>
         <atom:link href="http://greg.buzz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[I study the Internet at Oxford. I have experience in startups, big data, digital government, and developing prototypes.]]></title>
@@ -14,11 +14,11 @@
             <pubDate>Sun, 21 Aug 2016 11:37:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Greg Johnson | LinkedIn]]></title>
-            <description><![CDATA[<article><h1>Greg Johnson | LinkedIn</h1><p>Selected on the basis of academic achievement and intellectual promise. The program involves special coursework, summer research in collaboration with a faculty sponsor, a major project during the senior year, and supervised teaching experience.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b50d0e9c-9aef-42d7-9d78-a3eb2c23986a.jpg"></article>]]></description>
+            <title><![CDATA[View my profile on LinkedIn]]></title>
+            <description><![CDATA[<article><h1>View my profile on LinkedIn</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/56763dcf-ce27-499e-a7f9-47c5004ca1a8.jpg"></article>]]></description>
             <link>https://www.linkedin.com/in/greginternet</link>
             <guid isPermaLink="false">d280ba5c-8d50-4816-8d62-9fd931a1f6a5</guid>
-            <pubDate>Tue, 23 Aug 2016 12:03:40 GMT</pubDate>
+            <pubDate>Tue, 23 Aug 2016 12:13:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
