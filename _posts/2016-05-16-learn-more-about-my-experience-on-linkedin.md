@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-23T12:03:40.530Z'
+datePublished: '2016-08-23T12:13:06.874Z'
 sourcePath: _posts/2016-05-16-learn-more-about-my-experience-on-linkedin.md
 isBasedOnUrl: 'https://www.linkedin.com/in/greginternet'
 author: []
@@ -19,16 +19,11 @@ metadata:
   description: ''
   inLanguage: null
   inNav: false
-dateModified: '2016-08-23T12:03:39.853Z'
-title: Greg Johnson | LinkedIn
+dateModified: '2016-08-23T12:13:06.315Z'
+title: View my profile on LinkedIn
 id: d280ba5c-8d50-4816-8d62-9fd931a1f6a5
-publisher:
-  name: LinkedIn
-description: >-
-  Selected on the basis of academic achievement and intellectual promise. The
-  program involves special coursework, summer research in collaboration with a
-  faculty sponsor, a major project during the senior year, and supervised
-  teaching experience.
+publisher: {}
+description: ''
 starred: false
 inFeed: true
 hasPage: false
@@ -36,4 +31,4 @@ inNav: false
 _type: MediaObject
 
 ---
-![View my profile on LinkedIn](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b50d0e9c-9aef-42d7-9d78-a3eb2c23986a.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/56763dcf-ce27-499e-a7f9-47c5004ca1a8.jpg)
