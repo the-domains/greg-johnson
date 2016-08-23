@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-23T14:56:49.571Z'
+datePublished: '2016-08-23T14:57:58.249Z'
 sourcePath: >-
   _posts/2016-08-23-i-study-the-internet-at-oxford-i-have-experience-in-startup.md
 isBasedOnUrl: ''
 author: []
 via: {}
-dateModified: '2016-08-23T14:56:48.891Z'
+dateModified: '2016-08-23T14:57:57.554Z'
 title: I study the Internet at Oxford.
 publisher: {}
 description: ''
