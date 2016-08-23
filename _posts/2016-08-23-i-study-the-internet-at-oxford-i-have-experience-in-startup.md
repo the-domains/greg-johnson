@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-23T14:53:59.748Z'
+datePublished: '2016-08-23T14:55:23.681Z'
 sourcePath: >-
   _posts/2016-08-23-i-study-the-internet-at-oxford-i-have-experience-in-startup.md
 isBasedOnUrl: ''
 author: []
 via: {}
-dateModified: '2016-08-23T14:53:59.253Z'
+dateModified: '2016-08-23T14:55:22.625Z'
 title: I study the Internet at Oxford.
 publisher:
-  name: Eckerd College
+  name: ''
 description: ''
 starred: true
 inFeed: true
