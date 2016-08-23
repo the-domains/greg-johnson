@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-23T14:49:44.005Z'
+datePublished: '2016-08-23T14:50:56.759Z'
 sourcePath: >-
   _posts/2016-08-23-i-study-the-internet-at-oxford-i-have-experience-in-startup.md
 author: []
 via: {}
-dateModified: '2016-08-23T14:49:42.759Z'
+dateModified: '2016-08-23T14:50:56.149Z'
 title: I study the Internet at Oxford.
 publisher: {}
 description: >-
@@ -17,7 +17,7 @@ inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a687903-b033-43b4-8976-07dfd609b030.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a792817-4c24-4d40-a815-7e7fdc2db9f7.jpg)
 
 # I study the Internet at Oxford.
 
