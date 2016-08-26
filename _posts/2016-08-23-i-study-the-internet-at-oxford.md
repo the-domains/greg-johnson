@@ -1,15 +1,16 @@
 ---
-datePublished: '2016-08-23T18:23:05.783Z'
-sourcePath: _posts/2016-08-23-i-study-the-internet-at-oxford.md
-author: []
-via: {}
-dateModified: '2016-08-23T18:23:05.149Z'
+id: 4c684dc8-e61c-48cc-8316-0c1e657b24be
+dateModified: '2016-08-25T22:38:44.147Z'
 title: >-
   I study the Internet at Oxford. I have experience leading digital initiatives
   with startups, governments, and in big data research.
-publisher: {}
+datePublished: '2016-08-25T22:38:44.765Z'
+author: []
 description: ''
+publisher: {}
+via: {}
 starred: true
+sourcePath: _posts/2016-08-23-i-study-the-internet-at-oxford.md
 inFeed: true
 hasPage: false
 inNav: false
