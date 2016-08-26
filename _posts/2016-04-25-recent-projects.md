@@ -1,11 +1,12 @@
 ---
-datePublished: '2016-08-23T22:14:31.349Z'
+datePublished: '2016-08-25T22:39:16.965Z'
+sourcePath: _posts/2016-04-25-recent-projects.md
 isBasedOnUrl: ''
 author:
-  - name: Greg Johnson
+  - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-23T22:14:30.785Z'
+dateModified: '2016-08-25T22:39:16.400Z'
 title: Using Big Data to Predict Brexit
 id: 3482efc5-61e3-4750-a15d-c1c343325cba
 publisher: {}
@@ -16,7 +17,6 @@ description: >-
   to Brexit referendum election results. My visualizations were presented by Dr.
   Margetts for her May 2016 Political Turbulence talks at Harvard and MIT.
 starred: false
-sourcePath: _posts/2016-04-25-recent-projects.md
 inFeed: true
 hasPage: false
 inNav: false
