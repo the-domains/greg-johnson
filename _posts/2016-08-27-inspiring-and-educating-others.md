@@ -1,13 +1,14 @@
 ---
-datePublished: '2016-08-27T22:25:19.526Z'
+datePublished: '2016-08-27T22:49:01.731Z'
 sourcePath: _posts/2016-08-27-inspiring-and-educating-others.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-27T22:25:11.139Z'
+dateModified: '2016-08-27T22:49:01.184Z'
 title: Inspiring and educating others
 id: fe70ef9b-1e20-4978-bd29-3e1cec1fb130
-publisher: {}
+publisher:
+  name: Eckerd College
 description: >-
   Tasked with booking guest speakers, I sought to connect popular culture with
   activism by inviting Piper Kerman, the American memoirist whose prison
