@@ -1,9 +1,10 @@
 ---
-datePublished: '2016-08-27T22:23:33.116Z'
+datePublished: '2016-08-27T22:25:19.526Z'
 sourcePath: _posts/2016-08-27-inspiring-and-educating-others.md
+inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-27T22:23:32.578Z'
+dateModified: '2016-08-27T22:25:11.139Z'
 title: Inspiring and educating others
 id: fe70ef9b-1e20-4978-bd29-3e1cec1fb130
 publisher: {}
@@ -14,10 +15,7 @@ description: >-
   Black. It remains the most attended guest speaker event on campus in over a
   decade.
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/394c9286-48be-462d-b631-341f00efd1eb.jpg)
