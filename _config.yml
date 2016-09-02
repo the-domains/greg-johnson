@@ -31,9 +31,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: LinkedIn
-    url: 'https://www.linkedin.com/in/greginternet'
-    type: external
   - name: Facebook
     url: 'https://www.facebook.com/greg.johnson1'
     type: external
