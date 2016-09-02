@@ -31,9 +31,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Facebook
-    url: 'https://www.facebook.com/greg.johnson1'
-    type: external
   - name: Twitter
     url: 'https://twitter.com/greg_oii'
     type: external
